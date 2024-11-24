@@ -1,4 +1,4 @@
-package org.moldavets.model;
+package org.moldavets.model.input;
 
 public record RacerRecord(
         String key,

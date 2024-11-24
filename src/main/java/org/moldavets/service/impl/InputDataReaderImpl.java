@@ -2,7 +2,7 @@ package org.moldavets.service.impl;
 
 import org.moldavets.mapper.RacerRecordMapper;
 import org.moldavets.mapper.TimeRecordMapper;
-import org.moldavets.model.InputData;
+import org.moldavets.model.input.InputData;
 import org.moldavets.service.InputDataReader;
 
 import static org.moldavets.utils.ResourceFileUtils.readResourceFileToList;

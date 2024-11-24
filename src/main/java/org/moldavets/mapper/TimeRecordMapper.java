@@ -1,6 +1,6 @@
 package org.moldavets.mapper;
 
-import org.moldavets.model.TimeRecord;
+import org.moldavets.model.input.TimeRecord;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeParseException;

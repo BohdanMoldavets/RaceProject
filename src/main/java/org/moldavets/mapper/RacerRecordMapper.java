@@ -1,6 +1,6 @@
 package org.moldavets.mapper;
 
-import org.moldavets.model.RacerRecord;
+import org.moldavets.model.input.RacerRecord;
 
 import java.util.function.Function;
 
